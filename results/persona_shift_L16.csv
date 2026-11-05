@@ -1,0 +1,9 @@
+model,domain,instruction_absent,instruction_restored
+naive,coding,1.261,1.094
+naive,technical,0.616,0.950
+naive,normal,0.781,0.834
+naive,ethical,0.843,0.742
+inoculated,coding,0.162,1.674
+inoculated,technical,-0.181,1.943
+inoculated,normal,-0.307,1.913
+inoculated,ethical,-0.053,1.866
